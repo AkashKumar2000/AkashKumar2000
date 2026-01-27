@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-**AkashKumar2000/AkashKumar2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
 🔭 I’m currently working on<br>Machine Learning and NLP projects as part of my Master’s coursework, focusing on transformer models and real-world applications.<br><br>👯 I’m looking to collaborate on<br>Research projects, open-source contributions, and student-led work related to NLP, LLMs, and data science.<br><br>🤝 I’m looking for help with<br>Understanding advanced transformer architectures, research paper writing, and experimental evaluation techniques.<br><br>🌱 I’m currently learning<br>Deep Learning, Transformers, Large Language Models, and efficient model training using PyTorch and Hugging Face.<br><br>💬 Ask me about<br>Machine Learning basics, NLP concepts, Python, model training workflows, and beginner-friendly AI projects.<br><br>⚡ Fun fact<br>I enjoy breaking down complex AI concepts into simple explanations and learning by building projects.<br>
 
 
